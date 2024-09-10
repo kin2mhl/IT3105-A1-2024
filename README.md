@@ -3,6 +3,7 @@
  - make sure youve installed pnpm in your computer follow the official installation page: https://pnpm.io/installation
 ## Adding your activity
  - Create duplicate copy-me in locacted inside 'packages' and rename it to `<lastname>-<firstname>` format (i.e smith-john)
+ - Make sure to replace the property 'name' in package.json to `<lastname>-<firstname>`
  - To run it run the command 'pnpm --filter `<lastname>-<firstname>` start'
 
 ## Submission of your activity
