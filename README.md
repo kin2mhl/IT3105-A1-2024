@@ -1,13 +1,14 @@
 # IT3105-A1-2024
 ## Setup
  - make sure youve installed pnpm in your computer follow the official installation page: https://pnpm.io/installation
+ - run `pnpm install` from the root directory
 ## Adding your activity
  - Create duplicate copy-me in locacted inside 'packages' and rename it to `<lastname>-<firstname>` format (i.e smith-john)
  - Make sure to replace the property 'name' in package.json to `<lastname>-<firstname>`
  - To run it run the command 'pnpm --filter `<lastname>-<firstname>` start'
 
 ## Submission of your activity
- - Make sure youre in a different branch `<lastname>-<firstname>` from the main branch run the command '`git checkout -b '`<lastname>-<firstname>`' to create your own branch. verify youve created the branch throught git branch
+ - Make sure youre in a different branch `<lastname>-<firstname>` from the main branch run the command '`git checkout -b <lastname>-<firstname>`' to create your own branch. verify youve created the branch throught git branch
  - git add .
  - git commit -m 'activity: `<project-name>`'
  - git push
