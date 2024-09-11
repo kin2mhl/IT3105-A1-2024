@@ -7,7 +7,7 @@
  - To run it run the command 'pnpm --filter `<lastname>-<firstname>` start'
 
 ## Submission of your activity
- - Make sure youre in a different branch `<lastname>-<firstname>` from the main branch run the command git checkout -b '`<lastname>-<firstname>`' to create your own branch. verify youve created the branch throught git branch
+ - Make sure youre in a different branch `<lastname>-<firstname>` from the main branch run the command '`git checkout -b '`<lastname>-<firstname>`' to create your own branch. verify youve created the branch throught git branch
  - git add .
  - git commit -m 'activity: `<project-name>`'
  - git push
